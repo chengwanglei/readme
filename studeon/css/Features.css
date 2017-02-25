@@ -1,0 +1,31 @@
+/* CSS Document */
+.main{width:100%;}
+	.main_inner{width:1166px;margin:0 auto;margin-top:48px;}
+		.main_inner h2{font-size:26ps;text-align:center;line-height:88px;height:88px;}
+		.main_inner .top{height:127px;margin-top:22px;}
+			.main_inner .top .left{width:362px;height:127px;float:left;background:url(../images/ser-bg.png) no-repeat; padding-right:19px;}
+				.main_inner .top .left .bg_1{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:18px 43px;}
+				.main_inner .top .left .bg_2{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-68px 43px;}
+				.main_inner .top .left .bg_3{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-146px 43px;}
+				.main_inner .top .left .bg_4{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:18px -74px;}
+				.main_inner .top .left .bg_5{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-66px -74px;}
+				.main_inner .top .left .bg_6{width:66px;height:126px;background-color:#ed5844;float:left; background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-144px -72px;}
+				.main_inner .top .left dl{height:127px;width:276px;float:left;}
+				.main_inner .top .left dt{font-size:14px; font-weight:bold; color:#545253;line-height:46px;height:46px;padding-top:7px;padding-left:14px;}
+				.main_inner .top .left dd{font-size:12px; font-weight:bold; color:#545253;padding-left:14px;}
+			.main_inner .tubiao{height:186px;}
+			.main_inner .xia{clear:both;}
+					.main_inner .tubiao .left{width:384px; text-align:center;float:left;padding-bottom:48px;}
+						.main_inner .tubiao .left .tu_1{width:98px;height:99px;margin:0 auto;background-image:url(../images/img-sprite.png); background-repeat:no-repeat;}
+						.main_inner .tubiao .left .tu_2{width:98px;height:99px;margin:0 auto;background-image:url(../images/img-sprite.png); background-repeat:no-repeat; 
+						background-position:-102px 0;}
+						.main_inner .tubiao .left .tu_3{width:98px;height:99px;margin:0 auto;background-image:url(../images/img-sprite.png); background-repeat:no-repeat;
+						background-position:-202px 0;}
+						.main_inner .tubiao .left .tu_4{width:98px;height:99px;margin:0 auto;background-image:url(../images/img-sprite.png); background-repeat:no-repeat;
+						background-position:-302px 0;}
+						.main_inner .tubiao .left .tu_5{width:98px;height:99px;margin:0 auto;background-image:url(../images/img-sprite.png); background-repeat:no-repeat;
+						background-position:-402px 0;}
+						.main_inner .tubiao .left .tu{height:186px;}
+							.main_inner .tubiao .left .tu img{width:325px;height:167px;}
+						.main_inner .tubiao .left h3{font-size:18px;line-height:30px;height:30px;}
+						.main_inner .tubiao .left p{font-size:14px;line-height:19px;}

@@ -1,0 +1,7 @@
+/* CSS Document */
+.main{width:1166px;margin:0 auto; text-align:center;padding-bottom:42px;}
+	.main h2{line-height:96px;height:96px;padding-top:57px;font-size:30px;font-family:arial;font-weight:normal;}
+	.main p{color:#999;font-size:13px;line-height:23px;padding:0 130px 31px;}
+	.main .text{width:333px;height:47px;background-color:#ededed;border:3px solid #dcdbe0; border-radius:4px;font-size:16px;color:#a8a8a8; padding:0 17px;}
+	.main textarea{width:1090px;height:248px;background-color:#ededed;border:3px solid #dcdbe0; border-radius:4px;font-size:16px;color:#a8a8a8; padding:0 17px; resize:none;margin-top:24px;}
+	.main .sub{width:225px;height:57px;background:#ed5844;color:#fdfffe;font-size:16px;font-family:arial; box-shadow:0 0 8px rgba(0,0,0,.5) inset; border-radius:4px; margin-top:47px;}

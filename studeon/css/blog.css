@@ -1,0 +1,42 @@
+/* CSS Document */
+.main{width:100%;}
+	.main_inner{width:1166px;margin:0 auto;}
+		.zuo{width:840px;float:left;}
+			.zuo h3{font-size:16px;line-height:38px;height:38px;}
+			.zuo p{font-size:12px;line-height:31px;color:#999999;padding-bottom:6px;}
+			.zuo span{font-size:12px;line-height:31px;color:#f17367;}
+			.zuo .banner{border:5px solid #ec5743;height:419px;width:813px; position:relative;}
+			.zuo .banner img{width:813px;height:419px;}
+			.zuo .banner .tubiao{width:100%;height:41px; position:absolute;bottom:0;left:0;}
+			.zuo .banner .tubiao .tu_3{width:42px;height:41px;float:right;margin-left:3px;background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-288px -122px;}
+			.zuo .banner .tubiao .tu_4{width:42px;height:41px;float:right;background-image:url(../images/s-icons.png); background-repeat:no-repeat; background-position:-239px -122px;}
+			.zuo .wenzhang{font-size:12px;color:#999999;line-height:16px;}
+			.zuo h2{font-size:18px;line-height:53px;height:53px; font-family:"宋体";padding-top:21px;padding-left:14px;}
+			.zuo form h5{font-size:13px; line-height:21px; height:21px;margin:0 9px 0 19px;}
+			.zuo form .txt{width:808px;;height:38px;background:#eeeeee;margin:0 9px 19px 19px;}
+			.zuo form textarea{width:808px;;height:149px;background:#eeeeee;margin:0 9px 17px 19px;}
+			.zuo form .submit{width:145px; height:51px;background:#ed5844;color:#fff9fc;line-height:51px;margin:0 9px 35px 19px; border-radius:4px; box-shadow:0 0 5px rgba(0,0,0,.5) inset;}
+			.zuo .tom{width:823px; height:150px; border:1px solid #d4d4d4;margin:0 9px 0 9px;}
+				.zuo .tom_left{width:159px;height:159px;;padding:17px 0 47px 15px;float:left;}
+				.zuo .tom_right{width:602px;position:relative;float:right;}
+					.zuo .tom_right .time{height:45px;width:100%;}
+						.zuo .tom_right .time .date{width:143px;float:left;}
+						.zuo .tom_right .time form{float:right;width:145px; }
+						.zuo .tom_right .time .reset{width:145px; height:45px;background:#ed5844;color:#fff9fc;line-height:45px;border-radius:4px; box-shadow:0 0 5px rgba(0,0,0,.5) inset; position:absolute; bottom:0px;right:9px;}
+				.zuo .xia{clear:both;}
+			
+			
+			
+			
+
+			.you{width:265px;height:1954px;float:right;padding:17px 0 0 31px;}
+		.you h3{font-size:11px;color:#010002;line-height:68px;height:68px;}
+		.you form{width:253px;height:42px;border:1px solid #dbdbdb;position:relative;}
+		.you form .search{display:block;width:16px;height:16px;position:absolute;top:12px;right:10px;background:url(../images/search.png) no-repeat center;}
+			.you input{font-size:9px;color:#999798;width:217px;height:42px;padding:0 18px;}
+		.you li{font-size:9px;color:#999798;line-height:25px;padding-left:23px;background:url(../images/b_arrow.png) no-repeat left center;}
+			.you li a{color:#999798;}
+		.you .fearure{display:block;width:114px;height:73px;position:relative;float:left;margin:0 12px 8px 0;}
+			.you .fearure img{width:114px;}
+			.you .fearure .sone{width:100%;height:100%;position:absolute;top:0;left:0;background-color:rgba(0,0,0,0.5);display:none;}
+			.you .fearure:hover .sone{display:block;}

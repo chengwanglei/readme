@@ -1,0 +1,12 @@
+/* CSS Document */
+.main{width:1166px;height:795px;margin:0 auto; text-align:center;}
+	.main h3{font-size:28px;color:#010101;line-height:50px; height:50px;padding-top:80px;}
+	.main ul{display:inline-block; *diplay:block; *zoom:1;}
+		.main li{float:left;padding:0 17px;}
+			.main li a{font-size:15px;color:3d211e;line-height:65px;height:65px;}
+			.main li .all{color:#e9270b;}
+			.main li a:hover{color:#e9270b;}
+	.tupian_list a{width:285px; height:182px;float:left; display:inline-block;*diplay:block; *zoom:1; position:relative;}	
+		.tupian_list a img{width:285px;}
+		.tupian_list a .mask{width:100%; height:100%;background:rgba(0,0,0,.5); position:absolute;top:0;left:0; display:none;}
+		.tupian_list a:hover .mask{display:block;}
